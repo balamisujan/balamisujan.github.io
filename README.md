@@ -1,3 +1,4 @@
+[publication](2020_sujan.md)
 # Tutorial
 
 ## Statistical analysis
