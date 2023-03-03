@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: R tutorial
+description: R language for different statistical analysis
+author: Sujan Balami
+
+social-network-links:
+  twitter: BalamiSujan
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+- README.md
