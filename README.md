@@ -1,6 +1,3 @@
-[publication](2020_sujan.md)
-# Tutorial
-
 ## Statistical analysis
 #### [Normality](Normality.md)
 #### [Box-plot](Boxplot.md)
