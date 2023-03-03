@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Sujan Balami
 description: Hello everyone! welcome to my tutorial page hosted on GitHub. Here, I have complied some basic tutorial of statistical and phylogenetic analysis.
 image: "ss.jpg"
-author: Sujan Balami
+author: Home
 
 plugins:
   - jekyll-relative-links
