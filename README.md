@@ -1,16 +1,26 @@
-Welcome!
-On this site you will find the R languages for some basic statistical tests 
+# Tutorial
 
-[**Normality**](Normality.md)
+## Statistical analysis
+#### [Normality](Normality.md)
+#### [Box-plot](Boxplot.md)
+#### [Chi-square test](Chi-Square%20Test.md)
+#### [One-way ANOVA](One-way%20ANOVA.md)
+#### [Summary statistics](Summary%20statistics.md)
+#### [Two-way ANOVA](Two-way%20ANOVA.md)
 
-[**Box-plot**](Boxplot.md)
+## Phylogenetic analysis
+#### [NCBI tutorial](https://www.ncbi.nlm.nih.gov/)
+#### [Sequence alignment: MEGA](https://www.ncbi.nlm.nih.gov/)
+#### [Phylogenetic tree: RaxML and MrBayes](https://www.ncbi.nlm.nih.gov/)
 
-[**Chi-square test**](Chi-Square%20Test.md)
+## Downstream processing of NGS data
+#### SEED_pipeline
+#### SSU_pipeline
 
-[**One-way ANOVA**](One-way%20ANOVA.md)
+## Functional guild analysis of fungal metagenomic data
+#### FunGuild
 
-[**Summary statistics**](Summary%20statistics.md)
 
-[**Two-way ANOVA**](Two-way%20ANOVA.md)
 
-Copyright © 2023 SujanBalami
+
+
