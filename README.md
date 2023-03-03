@@ -4,9 +4,9 @@
 #### [Normality](Normality.md)
 #### [Box-plot](Boxplot.md)
 #### [Chi-square test](Chi-Square_Test.md)
-#### [One-way_ANOVA](One-way%20ANOVA.md)
-#### [Summary_statistics](Summary%20statistics.md)
-#### [Two-way ANOVA](Two-way%20ANOVA.md)
+#### [One-way ANOVA](One-way_ANOVA.md)
+#### [Summary statistics](Summary_statistics.md)
+#### [Two-way ANOVA](Two-way_ANOVA.md)
 
 ## Phylogenetic analysis
 #### [NCBI tutorial](https://www.ncbi.nlm.nih.gov/)
