@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
 title: Tutorial
-description: R language for different statistical analysis
+description: Here you will find tutorial of some statistical and phylogenetic analysis 
 author: Sujan Balami
-
-social-network-links:
-  twitter: BalamiSujan
 
 plugins:
   - jekyll-relative-links
