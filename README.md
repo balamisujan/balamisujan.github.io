@@ -3,7 +3,7 @@
 ## Statistical analysis
 #### [Normality](Normality.md)
 #### [Box-plot](Boxplot.md)
-#### [Chi-square test](Chi-Square%20Test.md)
+#### [Chi-square test](Chi-Square_Test.md)
 #### [One-way ANOVA](One-way%20ANOVA.md)
 #### [Summary statistics](Summary%20statistics.md)
 #### [Two-way ANOVA](Two-way%20ANOVA.md)
