@@ -1,4 +1,6 @@
 ## Statistical analysis
+<img src="ss.jpg" width="100" height="100">
+
 #### [Normality](Normality.md)
 #### [Box-plot](Boxplot.md)
 #### [Chi-square test](Chi-Square_Test.md)
