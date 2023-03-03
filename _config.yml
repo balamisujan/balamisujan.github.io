@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Sujan Balami
-description: # Tutorial 
+subtitle: Tutorial
+description: Tutorial
 author: Sujan Balami
 
 plugins:
