@@ -1,11 +1,15 @@
 ## Statistical analysis
+### Descriptive statistics
+#### [Summary statistics](Summary_statistics.md)
+#### [Normality](Normality.md)
 <img src="ss.jpg" width="200" height="100">
 
-#### [Normality](Normality.md)
 #### [Box-plot](Boxplot.md)
+<img src="box.png" width="200" height="100">
+
+### Inferential statistics
 #### [Chi-square test](Chi-Square_Test.md)
 #### [One-way ANOVA](One-way_ANOVA.md)
-#### [Summary statistics](Summary_statistics.md)
 #### [Two-way ANOVA](Two-way_ANOVA.md)
 
 ## Phylogenetic analysis
