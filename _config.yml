@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Tutorial | Home
-description: Hello everyone! welcome to my tutorial page hosted on GitHub. Here, I have complied some basic tutorial of statistical and phylogenetic analysis.
-Statistical analysis can be execute in R statistical programming. Different free softwares can be used for phylogenetic analysis.
+description: Hello everyone! welcome to my tutorial page hosted on GitHub. Here, I have complied some basic tutorial of statistical and phylogenetic analysis. Statistical analysis can be execute in R statistical programming. Different free softwares can be used for phylogenetic analysis.
 image: "ss.jpg"
 author: Sujan Balami
 
