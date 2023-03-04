@@ -1,18 +1,19 @@
-## Exploratory data analysis
+## Summary statistics
+Simply summarize your data by exploring its mean, median, mode, range, interquartile range, percentile, standard deviation, standard error
 
 ### Install required packages
 - install.packages("stats")
 - install.packages("dplyr") 
 
-### Load required libraries
+### Load required packages
 - library(stats)
 - library(dplyr)
 
-### Loading data
+### Load inbuild data (or your data)
 - data(iris)
 - str(iris)
 
-### Summary
+### Find our summary of your data
 - summary(iris)
 - tapply(iris$Sepal.Length,iris$Species, summary)
 - group_species=group_by(iris,Species)
