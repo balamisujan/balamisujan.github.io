@@ -1,6 +1,8 @@
 ## Statistical analysis
 ### Descriptive statistics
 #### [Summary statistics](Summary_statistics.md)
+<img src="mean.jpg" width="250" height="100">
+
 #### [Normality](Normality.md)
 <img src="ss.jpg" width="200" height="100">
 
