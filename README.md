@@ -32,7 +32,7 @@ B. <ins>Test for continous data</ins>
 
 ## Phylogenetic analysis
 #### [NCBI tutorial](https://www.ncbi.nlm.nih.gov/)
-#### [Sequence alignment: MEGA](https://www.ncbi.nlm.nih.gov/)
+#### [Sequence alignment: MEGA](https://www.megasoftware.net/))
 #### [Phylogenetic tree: RaxML and MrBayes](https://www.ncbi.nlm.nih.gov/)
 
 ## Downstream processing of NGS data
