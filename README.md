@@ -3,3 +3,5 @@
 ## [Phylogenetic analysis](Phylogenetic_analysis.md)
 
 ## [Metagenomic data analysis](metagenomic_analysis.md)
+
+<img src=walking_mushroom.gif>
