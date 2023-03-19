@@ -1,3 +1,3 @@
-## [Statistical analysis](Summary_statistic.md)
+## [Statistical analysis](Summary_statistics.md)
 
 ## [Phylogenetic analysis](Phylogenetic_analysis.md)
