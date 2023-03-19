@@ -2,13 +2,10 @@
 ### Descriptive statistics 
 Descriptive statistics explore your data characteristics either quantitatively (mean, median, mode, standard deviatoin, variation etc.) or visually (distribution, skewness, kurtosis etc.). 
 #### [Summary statistics](Summary_statistics.md)
-<img src="mean.jpg" width="250" height="100">
 
 #### [Normality](Normality.md)
-<img src="ss.jpg" width="200" height="100">
 
 #### [Box-plot](Boxplot.md)
-<img src="box.png" width="200" height="100">
 
 ### Inferential statistics
 Inferential statistics enables you to draw inferences and conclusions from your data based on probabilty measure. In other words, it helps in drawing conclusions about a population by examining random samples.
