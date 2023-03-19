@@ -36,11 +36,11 @@ B. <ins>Test for continous data</ins>
 #### [Phylogenetic tree: RaxML and MrBayes](https://www.ncbi.nlm.nih.gov/)
 
 ## Downstream processing of NGS data
-#### SEED_pipeline
-#### SSU_pipeline
+#### [SEED_pipeline](http://www.biomed.cas.cz/mbu/lbwrf/seed/)
+#### [SSU_pipeline](https://github.com/ut-planteco/ssu-pipeline)
 
 ## Functional guild analysis of fungal metagenomic data
-#### FunGuild
+#### [FunGuild](http://www.funguild.org/)
 
 
 
