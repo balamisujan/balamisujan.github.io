@@ -1,6 +1,6 @@
 ## Summary statistics
-Simply summarize your data by exploring its mean, median, mode, range, interquartile range, percentile, standard deviation, standard error
-
+Simply summarize your data by exploring its mean, median, mode, range, interquartile range, percentile, standard deviation, standard error etc.
+ 
 ### Install required packages
 - install.packages("stats")
 - install.packages("dplyr") 
@@ -11,9 +11,9 @@ Simply summarize your data by exploring its mean, median, mode, range, interquar
 
 ### Load inbuild data (or your data)
 - data(iris)
-- str(iris)
+- str(iris) # to view structure of data
 
-### Find our summary of your data
+### Find summary of your data
 - summary(iris)
 - tapply(iris$Sepal.Length,iris$Species, summary)
 - group_species=group_by(iris,Species)
