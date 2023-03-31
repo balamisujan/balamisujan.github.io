@@ -20,7 +20,7 @@ B. <ins>Test for continous data</ins>
 1. Correlation
 #### Pearson Correlation test
 3. Test of single group
-#### T-test
+#### [T-test](T-test.md)
 #### Z-test
 3. Test of more than one group
 #### [One-way ANOVA](One-way_ANOVA.md)
