@@ -11,13 +11,15 @@ Descriptive statistics explore your data characteristics either quantitatively (
 Inferential statistics enables you to draw inferences and conclusions from your data based on probabilty measure. In other words, it helps in drawing conclusions about a population by examining random samples.
 
 #### Parameteric tests
-If your data have normal distribution and equal variance accross groups then you can execute following parametric test depending upon your data types.
+If your data have normal distribution then you can execute following parametric test depending upon your data types.
 
 A. <ins>Test for frequency data</ins>
 #### [Chi-square test](Chi-Square_Test.md)
 
 B. <ins>Test for continous data</ins>
-1. Test of single group
+1. Correlation
+#### Pearson Correlation test
+3. Test of single group
 #### T-test
 #### Z-test
 3. Test of more than one group
