@@ -1,7 +1,7 @@
 ## Statistical analysis
 ### Descriptive statistics 
 Descriptive statistics explore your data characteristics either quantitatively (mean, median, mode, standard deviatoin, variation etc.) or visually (distribution, skewness, kurtosis etc.). 
-#### [Summary statistics](Descriptive_statistic/Summary_statistics.md)
+#### [Summary statistics](Descriptive_statistics/Summary_statistics.md)
 
 #### [Normality](Normality.md)
 
